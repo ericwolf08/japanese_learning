@@ -1,0 +1,89 @@
+﻿akirameru		_ あきらめる _	to give up (~wo)
+ageru			_ あげる _	to give (to others) (person ni thing wo)
+kureru			_ くれる _	to give (me) (person ni thing wo)
+dekiru			_ でくる _	to come into existence; to be made
+kiwotsukeru		_ きをつける _	to be cautious/careful (~ni)
+shiraberu		_ しらべる _	to look into (a matter) (matter wo)
+mieru			_ みえる _	to be visible (~ga)
+k.airon.wokakeru	_ アイロンをかける _	to iron (clothes) (~ni)
+atsumeru		_ あつめる _	to collect (~wo)
+ireru			_ いれる _	to put (something) in (thing wo place ni)
+noriokureru		_ のりおくれる _	to miss (a train,bus,etc.) (~ni)
+miseru			_ みせる _	to show (~wo)
+ireru			_ いれる _	to make tea, coffee, etc. (~wo)
+umareru			_ うまれる _	to be born (~ga)
+kagiwokakeru		_ かぎをかける _	to lock (~ni)
+tariru			_ たりる _	to be sufficient; to be enough (~ga)
+nareru			_ なれる　_	to get used to... (~ni)
+ochiru			_ おちる _	(something) drops (~ga)
+katadukeru		_ かたづける _	to tidy up (~wo)
+kangaeru		_ かんがえる _	to think (about); to consider
+kieru			_ きえる _	(something) goes off (~ga)
+kowareru		_ こわれる _	(something) breaks (~ga)
+yogoreru		_ よごれる _	to become dirty (~wo)
+amu			_ あむ _	to knit (~wo)
+kasu			_ かす _	to lend; to rent (person ni thing wo)
+ganbaru			_ がんばる _	to do one's best; to try hard
+naku			_ なく _	to cry
+migaku			_ みがく _	to brush (teeth); to polish (~wo)
+yakusoku		_ やくそく _	to keep a promise
+okuru			_ おくる _	to send (person ni thing wo)
+niau			_ にあう _	to look good (thing ga)
+uru			_ うる _	to sell (~wo)
+orosu			_ おろす _	to withdraw (money) (~wo)
+kaku			_ かく _	to draw; to paint (~wo)
+sagasu			_ さがす _	to look for (~wo)
+sasou			_ さそう _	to invite (~wo)
+shaberu			_ しゃべる _	to chat
+tsukiau			_ つきあう _	to date (someone) (person to); to keep company (purpose ni)
+tsuku			_ つく _	to arrive (place ni)
+hakennihairu		_ はけんにはいる _	to buy insurance
+okosu			_ おこす _	to wake (someone) up (~wo)
+ogoru			_ おごる _	to treat (someone) to a meal (person ni meal wo)
+ochikomu		_ おちこむ _	to get depressed
+komaru			_ こまる _	to have difficulty
+dasu			_ だす _	to take (something) out; to hand in (something) (~wo)
+tsureteiku		_ つれていく _	to take (someone) to (a place) (person wo place ni)
+naosu			_ なおす _	to correct; to fix (~wo)
+michinimayou		_ みちにまよう _	to become lost; to lose one's way
+mitsukaru		_ みつかる _ 	to be found (~ga)
+mukaeniiku		_ むかえにいく _	to go to pick up
+yakusu			_ ざくす _	to translate (source wo target ni)
+warau			_ わらう _	to laugh
+erabu			_ えらぶ _	to choose; to select (~wo)
+oyuwowakasu		_ おゆをわかす _	to boil water
+kamiwotokasu		_ かみをとかす _	to comb one's hair
+komu			_ こむ _	to get crowded (~ga)
+takarakujiniataru	_ たからくじにあたる _	to win a lottery
+nugu			_ ぬぐ _	to take off (clothes) (~wo)
+higewosuru		_ ひげをする _	to shave one's beard
+aku			_ あく _	(something) opens (~ga)
+ayamaru			_ あやまる _	to apologize (person ni)
+osu			_ おす _	to press; to push (~wo)
+otosu			_ おとす _	to drop (something) (~wo)
+oyugawaku		_ おゆがわく _	water boils
+korobu			_ ころぶ _	to fall down
+kowasu			_ こわす _	to break (something) (~wo)
+saku			_ さく _	to bloom (~ga)
+shimaru			_ しまる _	(something) closes (~ga)
+tasukarau		_ たすからう _	to be saved; to be helped
+nanomu			_ なのむ _	to ask (a favor) (person ni ~ wo)
+tsuku			_ つく _	(something) turns on (~ga)
+yogosu			_ よごす _	to make dirty (~wo)
+kandousuru		_ かんどうする _	to be moved/touched (by...) (~ni)
+soudansuru		_ そうだんする _	to consult (person ni)
+puropo~zu.suru		_ プロポユする _	to propose marriage (person ni)
+kankousuru		_ かんこうする _	to do sightseeing
+suru			_ する _	to decide on (an item) (item ni)
+sotsugyousuru		_ そつぎょうする _	to graduate (from...) (school wo)
+yoyakusuru		_ よやくする _  	to reserve (~wo)
+asanebausuru		_ あさねばうする _	to oversleep
+annaisuru		_ あんないする _	to show (someone) around (place wo)
+setsumeisuru		_ せつめいする _	to explain
+mukaenikuru		_ むかえにくる _	to come to pick up (place made/ni person wo)
+oinorisuru		_ おいのりする _	to pray (~ni)
+keshousuru		_ けしょうする _	to put makeup on
+shuushokusuru		_ しゅうしょくする _	to get a full-time job (at...) (company ni)
+suru			_ する _	to wear small items (necktie, watch, etc.) (~wo)
+rikonsuru		_ りこんする _	to get a divorce
+chumonsuru		_ ちゅもんする _	to place an order (~wo)

@@ -1,0 +1,48 @@
+﻿irasshaimasu		_ いらっしゃいます  _	(someone honorable) is present/home
+~kai			_ かい  _		...times
+~kiro			_ キロ  _			...kilometers; ...kilo
+jitsuha			_ じつは  _		as a matter of fact,...
+zenbu			_ ぜんぶ  _		all
+~tomoushimasu		_ ともうします  _		my name is...
+onaji			_ おなじ  _		same
+~kun			_ くん _			Mr./Ms.... (casual)
+konna~			_ こんな  _		...like this; this kind of...
+~tachi			_ たち  _			[makes a noun plural]
+choudo			_ ちょうど  _		exactly
+doushitaraii		_ どうしたらい  _		what should one do
+yoku			_ よく  _			well
+ichinichijuu		_ いちにちじゅう  _		all day long
+~kedo			_ けど  _			...,but; ...,so
+saikin			_ さいきん _		recently
+~ban			_ ばん _			number...
+~me			_ め _			-th
+mouichido		_ もういちど  _		one more time
+eeto			_ ええと  _		well...; let me see...
+kyoujuuni		_ きょうじゅうに  _		by the end of today
+konoaida		_ このあいだ  _		the other day
+konogurai		_ このぐらい  _		about this much
+gomen			_ ごめん _		I'm sorry. (casual)
+korekara		_ これから  _		from now on
+shitsureishimasu	_ しつれいします  _		Excuse me.; Sorry to interrupt you.
+jibunde			_ じゅぶんで  _		(do something) by oneself
+juugyouchuuni		_ じゅうぎょうちゅうに  _	in class; during the class
+hokano			_ ほかの  _		other
+omedetougozaimasu	_ おめでとうございます  _	Congratulations!
+~kana(a)		_ かなあ  _		I wonder... (casual)
+jibun			_ じぶん _		oneself
+zuibun			_ ずいぶん _		very
+souka			_ そうか _		I see. (casual)
+soreni			_ それに _		moreover,...
+tatoeba			_ たとえば _		for example
+~nikurabete		_ にくらべて _		compared with...
+~niyoruto		_ によると _		according to...
+mae			_ まえ _			before...
+yappari			_ やっぱり _		after all
+imasugu			_ いますぐ _		right away
+okagede			_ おかげで _		thanks to... (~no)
+osakinishitsureishimasu	_ おさきにしつれいします _	See you. (lit., I'm leaving ahead of you.)
+otsukaresama(deshita)	_ おつかれさまでした _	You must be tired after working so hard. (ritualistic expression)
+~(n)darou		_ んだろう _		short form of ~(n)deshou
+doushiyou		_ どうしよう _		What should I/we do?
+mazu			_ まず _			first of all
+~madeni			_ までに _		by (time/date)

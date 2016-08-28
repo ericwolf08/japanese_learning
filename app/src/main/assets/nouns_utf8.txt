@@ -1,0 +1,127 @@
+﻿ueita-			_ ウエイタ _	waiter
+otaku			_ おたく _	(someone's) house/home
+otona			_ おとな _	adult
+gaikokugo		_ がいこくご _	foreign language
+gakki			_ がっきい _	musical instrument
+karate			_ からて _	karate
+kare-			_ カレ _		curry
+kimono			_ きもの _	kimono; Japanese traditional dress
+koukoku			_ こうこく _	advertisement
+koucha			_ こうちゃ _	tea (black tea)
+kotoba			_ ことば _	language
+golufu			_ ゴルフ _	golf
+se-ta-			_ セタ _		sweater
+zou			_ よう _		elephant
+baiorin			_ バイオリン _	violin
+baike			_ バイケ　_	motorcycle
+bukka			_ ぶっか _	(consumer) prices
+bunpou			_ ぶんぽう _	grammar
+bengoshi		_ べんごし _	lawyer
+boshuu			_ ぼしゅう _	recruitment
+mise			_ みせ _		shop; store
+yakuza			_ やくざ _	yakuza; gangster
+yakusoku		_ やくそく _	promise; appointment
+repo-to			_ レポト _	(term) paper
+watakushi		_ わたくし _	i (formal)
+oni			_ おに _		(my) older brother
+ooyasan			_ おおやさｎ _	landlord; landlady
+okaeshi			_ おかえし _	return (as a token of gratitude)
+okusan			_ おくさん _	(your/his) wife
+ojisan			_ おじさん _	uncle; middle-aged man
+obasan			_ おばさん _	aunt; middle-aged woman
+gurasu			_ グラス _	tumbler; glass
+kuriisumasu		_ クリイスマス _	Christmas
+goshujin		_ ごしゅじん _	(your/her) husband
+sara			_ さら _		plate; dish
+jikan			_ じかん _	time
+chiketo			_ チケト _	ticket
+chokora-to		_ チョコラト _	chocolate
+tore-ta-		_ トレタ _	sweat shirt
+nuigurumi		_ ぬいぐるみ _	stuffed animal (e.g. teddy bear)
+nekutai			_ ネクタイ _	necktie
+barentainde-		_ バレンタインデ _	St. Valentine's Day
+bideokamera		_ ビデオカメラ _	camcorder
+fuufu			_ ふうふ _	married couple; husband and wife
+mafula-			_ まふら _	winter scarf
+manshon			_ まんしょん _	multistory apartment building;
+mikan			_ みかん _	mandarin orange
+minasan			_ みなさん _	everyone; all of you
+yubiwa			_ ゆびわ _	ring
+rajio			_ らじお _	radio
+ryoushin		_ りょうしん _	parents
+rirekisho		_ りれきしょ _	resume
+e			_ え _		painting
+eigakan			_ えいがかん _	movie theater
+gaikokujin		_ がいこくじん _	foreigner
+kagu			_ かぐ _		furniture
+kurabu			_ くらぶ _		night club
+keiken			_ けいけん _	experience
+kekkonshiki		_ けっこんしき _	wedding
+jishin 			_ じしん _	earthquake
+shimekiri		_ しめきり _	deadline
+shuukan			_ しゅうかん _	custom
+zeikin			_ ぜいきん _	tax
+sotsugyoushiki		_ そつぎょうしき _	graduation ceremony
+soba			_ そば _		soba; Japanese buckwheat noodle
+chizu			_ ちず _		map
+denchi			_ でんち _	battery
+niwa			_ にわ _		garden
+happyou			_ はっぴょう _	presentation
+bangumi			_ ばんぐみ _	broadcast program
+pu-ru			_ ぷる _		pool
+petto			_ ぺっと _		pet
+hoken			_ ほけん _	insurance
+yotei			_ よてい _	schedule; plan
+ryokan			_ りょかん _	Japanese inn
+waribikiken		_ わりびきけん _	discount coupon
+ekiin(san)		_ えきいんさん _	station attendant
+ookisa			_ おおきさ _	size
+oya			_ おや _		parent
+kimatsushiken		_ きまつしけん _	final examination	
+kenkyuu			_ けんきゅう _	research
+gomi			_ ごみ _		garbage
+satou			_ さとう _		sugar
+shougakukin		_ しょうがくきん _	scholarship
+shinseki		_ しんせき _	relatives
+suisenjou		_ すいせんじょう _	letter of recommendation
+daigakuin		_ だいがくいん _	graduate school
+taifuu			_ たいふうう _	typhoon
+hi			_ ひ _		day
+fairu			_ ファイル _	file
+michi			_ みち _		way; road; directions
+mezamashidokei		_ めざましどけい _	alarm clock
+okyakusan		_ おきゃくさん _	guest; visitor; client; customer
+otoko			_ おとこ _		man
+oyu			_ おゆ _		hot water
+onna			_ おんな _	woman
+kagi			_ かぎ _		lock; key
+kaji			_ かじ _		fire
+kami			_ かみ _		paper
+kyuuryou		_ きゅうりょう _	salary
+kontakuto		_ コンタクト _	contact lenses
+saitei			_ さいてい _	the lowest; the worst
+serari-man		_ セラリマン _	salaryman, company employee
+sangyou			_ さんぎょう _	overtime work
+shushou			_ しゅしょう _	prime minister
+takarakuji		_ たからくじ _	lottery
+chigai			_ ちがい _	difference
+doubutsuen		_ どうぶつえん　_	zoo
+hi-ta-			_ ヒータ _		heater
+hige			_ ひげ _		beard
+himitsu			_ ひみつ _	secret
+ryou			_ りょう _		dormitory
+ryokougaisha		_ りょこうがいしゃ _	travel agency
+ato			    _ あと _		the rest
+eakon			_ エアコン _	air conditioner
+ka-ten			_ カテン _	cutrain
+shouu			_ しょうう _	soy sauce
+soto			_ そと _		outside
+sofa			_ ソファ _		sofa
+taoru			_ タオル _	towel
+nikki			_ にっき _	diary
+mushi			_ むし _		insect
+yachin			_ やちいん _	rent
+yuugata			_ ゆうがた _	evening
+rusubandenwa		_ るすばんでんわ _	answering machine
+reizouko		_ れいぞうこ _	refrigerator
+rousoku			_ ろうそく _	candle

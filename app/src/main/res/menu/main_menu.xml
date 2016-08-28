@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=
+        ".VocLearn" >
+    <item
+        android:id="@+id/menu_list"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        android:title="@string/list_voc"/>
+    <item
+        android:id="@+id/menu_learn"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        android:title="@string/learning"/>
+</menu>

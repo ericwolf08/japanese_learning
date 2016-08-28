@@ -1,0 +1,23 @@
+﻿## i-adjectives
+ureshii			_ うれしい  _	glad
+kanashii		_ かなしい  _	sad
+karai			_ からい  _	hot and spicy; salty
+kibishi			_ きびし  _	strict
+sugoi			_ すごい  _	incredible, awesome
+chikai			_ ちかい  _	close; near
+hoshii			_ ほしい  _	to want (thing ga)
+hiroi			_ ひろい  _	spacious; wide
+kitanai			_ きたない  _	dirty
+abunai			_ あぶない  _	dangerous
+urayamashii		_ うらやましい  _	envious
+sukunai			_ すくない  _	a little; a few
+tsuyoi			_ つよい  _	strong
+akarui			_ あかるい  _	bright
+kibungawarui		_ きぶんがわるい  _	to feel sick
+kurai			_ くらい  _	dark
+hazukashii		_ はずかしい  _	embarrassing; to feel embarrassed
+## na-adjectives
+iroiro(na)		_ いろいな  _	various; different kinds of
+shiawase(na)		_ しあわせな  _	happy (lasting happiness)
+dame(na)		_ だめな  _	no good
+kechi(na)		_ けちな  _	stingy; cheap
