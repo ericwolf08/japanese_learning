@@ -1,0 +1,33 @@
+﻿Potential Form_In Japanese, the ability to do a certain action is expressed by conjugating the verb rather than adding a word such as the words "can" or "able to" in the case of English. All verbs conjugated into the potential form become a ru-verb._Vocabulary_見る 【み・る】 (ru-verb) - to see
+遊ぶ 【あそ・ぶ】 (u-verb) - to play
+する (exception) - to do
+来る 【く・る】 (exception) - to come
+出来る 【で・き・る】 (ru-verb) - to be able to do
+食べる 【た・べる】 (ru-verb) - to eat
+着る 【き・る】 (ru-verb) - to wear
+信じる 【しん・じる】 (ru-verb) - to believe
+寝る 【ね・る】 (ru-verb) - to sleep
+起きる 【お・きる】 (ru-verb) - to wake; to occur
+出る 【で・る】 (ru-verb) - to come out
+掛ける 【か・ける】 (ru-verb) - to hang
+調べる 【しら・べる】 (ru-verb) - to investigate
+話す 【はな・す】 (u-verb) - to speak
+書く 【か・く】 (u-verb) - to write
+待つ 【ま・つ】 (u-verb) - to wait
+飲む 【の・む】 (u-verb) - to drink
+取る 【と・る】 (u-verb) - to take
+死ぬ 【し・ぬ】 (u-verb) - to die
+買う 【か・う】 (u-verb) - to buy
+漢字 【かん・じ】 - Kanji
+残念 【ざん・ねん】 (na-adj) - unfortunate
+今週末 【こん・しゅう・まつ】 - this weekend
+行く 【い・く】 (u-verb) - to go
+もう - already_Rules for creating potential form_
+For ru-verbs: Replace the 「る」 with 「られる」.
+Example: 見る → 見られる
+For u-verbs: Change the last character from a / u / vowel sound to the equivalent / e / vowel sound and add 「る」.
+Example: 遊ぶ → 遊べ → 遊べる
+Exceptions:
+「する」 becomes 「できる」
+「くる」 becomes 「こられる」
+※Remember that all potential verbs become ru-verbs._It is also possible to just add 「れる」 instead of the full 「られる」 for ru-verbs. For example, 「食べる」 becomes 「食べれる」 instead of 「食べられる」. I suggest learning the official 「られる」 conjugation first because laziness can be a hard habit to break and the shorter version, though common, is considered to be slang.

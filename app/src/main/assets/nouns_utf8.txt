@@ -11,7 +11,7 @@ koucha			_ こうちゃ _	tea (black tea)
 kotoba			_ ことば _	language
 golufu			_ ゴルフ _	golf
 se-ta-			_ セタ _		sweater
-zou			_ よう _		elephant
+zou			    _ よう _		elephant
 baiorin			_ バイオリン _	violin
 baike			_ バイケ　_	motorcycle
 bukka			_ ぶっか _	(consumer) prices
@@ -23,7 +23,7 @@ yakuza			_ やくざ _	yakuza; gangster
 yakusoku		_ やくそく _	promise; appointment
 repo-to			_ レポト _	(term) paper
 watakushi		_ わたくし _	i (formal)
-oni			_ おに _		(my) older brother
+oni			    _ おに _		(my) older brother
 ooyasan			_ おおやさｎ _	landlord; landlady
 okaeshi			_ おかえし _	return (as a token of gratitude)
 okusan			_ おくさん _	(your/his) wife
@@ -39,7 +39,7 @@ chokora-to		_ チョコラト _	chocolate
 tore-ta-		_ トレタ _	sweat shirt
 nuigurumi		_ ぬいぐるみ _	stuffed animal (e.g. teddy bear)
 nekutai			_ ネクタイ _	necktie
-barentainde-		_ バレンタインデ _	St. Valentine's Day
+barentainde-	_ バレンタインデ _	St. Valentine's Day
 bideokamera		_ ビデオカメラ _	camcorder
 fuufu			_ ふうふ _	married couple; husband and wife
 mafula-			_ まふら _	winter scarf
@@ -50,7 +50,7 @@ yubiwa			_ ゆびわ _	ring
 rajio			_ らじお _	radio
 ryoushin		_ りょうしん _	parents
 rirekisho		_ りれきしょ _	resume
-e			_ え _		painting
+e			    _ え _		painting
 eigakan			_ えいがかん _	movie theater
 gaikokujin		_ がいこくじん _	foreigner
 kagu			_ かぐ _		furniture
@@ -61,7 +61,7 @@ jishin 			_ じしん _	earthquake
 shimekiri		_ しめきり _	deadline
 shuukan			_ しゅうかん _	custom
 zeikin			_ ぜいきん _	tax
-sotsugyoushiki		_ そつぎょうしき _	graduation ceremony
+sotsugyoushiki	_ そつぎょうしき _	graduation ceremony
 soba			_ そば _		soba; Japanese buckwheat noodle
 chizu			_ ちず _		map
 denchi			_ でんち _	battery
@@ -76,8 +76,8 @@ ryokan			_ りょかん _	Japanese inn
 waribikiken		_ わりびきけん _	discount coupon
 ekiin(san)		_ えきいんさん _	station attendant
 ookisa			_ おおきさ _	size
-oya			_ おや _		parent
-kimatsushiken		_ きまつしけん _	final examination	
+oya			    _ おや _		parent
+kimatsushiken	_ きまつしけん _	final examination
 kenkyuu			_ けんきゅう _	research
 gomi			_ ごみ _		garbage
 satou			_ さとう _		sugar
@@ -86,13 +86,13 @@ shinseki		_ しんせき _	relatives
 suisenjou		_ すいせんじょう _	letter of recommendation
 daigakuin		_ だいがくいん _	graduate school
 taifuu			_ たいふうう _	typhoon
-hi			_ ひ _		day
+hi			    _ ひ _		day
 fairu			_ ファイル _	file
 michi			_ みち _		way; road; directions
-mezamashidokei		_ めざましどけい _	alarm clock
+mezamashidokei	_ めざましどけい _	alarm clock
 okyakusan		_ おきゃくさん _	guest; visitor; client; customer
 otoko			_ おとこ _		man
-oyu			_ おゆ _		hot water
+oyu			    _ おゆ _		hot water
 onna			_ おんな _	woman
 kagi			_ かぎ _		lock; key
 kaji			_ かじ _		fire
@@ -109,19 +109,37 @@ doubutsuen		_ どうぶつえん　_	zoo
 hi-ta-			_ ヒータ _		heater
 hige			_ ひげ _		beard
 himitsu			_ ひみつ _	secret
+buutsu          _ ブーツ　_ boots
 ryou			_ りょう _		dormitory
-ryokougaisha		_ りょこうがいしゃ _	travel agency
+ryokougaisha	_ りょこうがいしゃ _	travel agency
 ato			    _ あと _		the rest
 eakon			_ エアコン _	air conditioner
 ka-ten			_ カテン _	cutrain
 shouu			_ しょうう _	soy sauce
 soto			_ そと _		outside
-sofa			_ ソファ _		sofa
+sofa			_ ソファ _	sofa
 taoru			_ タオル _	towel
 nikki			_ にっき _	diary
 mushi			_ むし _		insect
 yachin			_ やちいん _	rent
 yuugata			_ ゆうがた _	evening
-rusubandenwa		_ るすばんでんわ _	answering machine
+rusubandenwa	_ るすばんでんわ _	answering machine
 reizouko		_ れいぞうこ _	refrigerator
 rousoku			_ ろうそく _	candle
+okusama         _ おくさま _　(your/his) wife (polite)
+okosan          _　おこさん _ (your/their) child (polite)
+orei            _　おれい _ expression of gratitude
+keigo           _　けいご _ honorific language
+kochira         _　こちら _ this way (polite)
+shucchou        _　しゅっちょう _ business trip
+shurui          _　しゅるい _ a kind; a sort
+seikaku         _　せいかく _ personality
+chuugakusei     _ ちゅうがくせい _ junior high school student
+dochira         _　どちら _ where (polite)
+namakemono      _　なまけもの _ lazy person
+nayami          _　なやみ _ worry
+hazukashigariya _　はずかしがりや _ shy person
+hanashi         _　はなし _ chat; talk
+buchou          _　ぶちょう _ department manager
+bunka           _　ぶんか _ culture
+machigai        _　まちがい _ mistake

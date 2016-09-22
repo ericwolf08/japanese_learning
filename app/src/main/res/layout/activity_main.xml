@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="ericwolf.genkiii.MainActivity"
+    tools:context=".MainActivity"
     android:background="#dedede">
 
     <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
@@ -45,6 +45,16 @@
             android:layout_gravity="fill_horizontal"
             android:background="@drawable/round_button" />
 
+        <Button
+            android:layout_margin="5dp"
+            android:text="@string/grammar"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_columnWeight="1"
+            android:gravity="center"
+            android:onClick="gotogrammar"
+            android:layout_gravity="fill_horizontal"
+            android:background="@drawable/round_button" />
 
     </GridLayout>
     </ScrollView>

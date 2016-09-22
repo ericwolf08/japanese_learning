@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Learning Japanese</string>
-    <string name="adjektive">Adjektive</string>
-    <string name="nomen">Nomen</string>
-    <string name="adverben">Adverben</string>
-    <string name="verben">Verben</string>
-    <string name="alle_vokabeln">Alle Vokabeln</string>
+    <string name="adjektive">Adjectives</string>
+    <string name="nomen">Nouns</string>
+    <string name="adverben">Adverbs</string>
+    <string name="verben">Verbs</string>
+    <string name="alle_vokabeln">All vocabulary</string>
     <string name="next">Solve</string>
     <string name="shuffle">Shuffle</string>
     <string name="list_voc">Enlist vocabulary</string>
@@ -12,4 +12,6 @@
     <string name="en_jap"><![CDATA[En -> Jap]]></string>
     <string name="vokabeln">Vocabulary</string>
     <string name="kanjis">Kanjis</string>
+    <string name="grammar">Grammar</string>
+    <string name="potential">Potential Form</string>
 </resources>

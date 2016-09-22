@@ -27,5 +27,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void gotogrammar(View view) {
+        Intent intent = new Intent(this, GrammarActivity.class);
+        startActivity(intent);
+    }
+
 
 }

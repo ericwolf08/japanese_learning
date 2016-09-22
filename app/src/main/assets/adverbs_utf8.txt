@@ -46,3 +46,12 @@ otsukaresama(deshita)	_ おつかれさまでした _	You must be tired after wo
 doushiyou		_ どうしよう _		What should I/we do?
 mazu			_ まず _			first of all
 ~madeni			_ までに _		by (time/date)
+ototoi          _ おととい　_ the day before yesterday
+sorede          _　それで　_ then; therefore
+naze            _　なぜ　_ why (＝どうして)
+hontouha        _　ほんとうは　_ in fact; originally
+maiasa          _　まいあさ　_ every morning
+mada            _　まだ　_ still
+~meisama        _　~めいさま _ party of...people
+youkosu         _　ようこす　_ Welcome.
+yoroshikuotsutaekudasai _　よろしくおつたえください _ Please give my best regards (to...). (~に)

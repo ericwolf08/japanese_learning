@@ -13,11 +13,13 @@ urayamashii		_ うらやましい  _	envious
 sukunai			_ すくない  _	a little; a few
 tsuyoi			_ つよい  _	strong
 akarui			_ あかるい  _	bright
-kibungawarui		_ きぶんがわるい  _	to feel sick
+kibungawarui	_ きぶんがわるい  _	to feel sick
 kurai			_ くらい  _	dark
 hazukashii		_ はずかしい  _	embarrassing; to feel embarrassed
+nakagaii        _ なかがいい　_ be on good/close terms
 ## na-adjectives
 iroiro(na)		_ いろいな  _	various; different kinds of
-shiawase(na)		_ しあわせな  _	happy (lasting happiness)
+shiawase(na)	_ しあわせな  _	happy (lasting happiness)
 dame(na)		_ だめな  _	no good
 kechi(na)		_ けちな  _	stingy; cheap
+majime(na)      _ まじめ(な) _ serious; sober; diligent
